@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    background-color: midnightblue;
+}
+
+body{
+    background-color: orange;
+
+}
+h2{
+    border:30px;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+#Entrantes{
+    text-align: center;
+
+}
+
+#PlatoPrincipal{
+    text-align: center;
+}
+
+#Postre{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+   display: inline;
+   padding: 70px;
+
+}
+
+
+
